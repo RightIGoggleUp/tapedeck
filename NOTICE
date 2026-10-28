@@ -1,0 +1,14 @@
+TapeDeck
+Copyright 2026 Patrick Kea
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party components
+- libVLC for Android (org.videolan.android:libvlc-all 3.6.0), (c) VideoLAN and contributors,
+  licensed under the GNU Lesser General Public License v2.1 (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).
+  It is used unmodified as a separate shared library (libvlc.so) and can be replaced by a user-built
+  version of the same library. Source: https://code.videolan.org/videolan/vlc-android
+- AndroidX / Jetpack Compose / Kotlin, licensed under the Apache License 2.0.
+
+TapeDeck is not affiliated with or endorsed by VideoLAN, Sony, or any cassette player maker.
+"VLC" and the traffic cone are trademarks of VideoLAN and are not used as branding here.
